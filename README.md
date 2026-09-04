@@ -21,16 +21,16 @@
 
 <!-- Typing Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86C1&center=true&vCenter=true&width=450&lines=Full-Stack+Web+Developer;React.js+%7C+Java+%7C+Spring+Boot;Built+Smart+Learn+Hub+%26+SmartQueue;Actively+seeking+Entry-Level+%2F+SDE+Roles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86C1&center=true&vCenter=true&width=450&lines=Full-Stack+Web+Developer;React.js+%7C+Java+%7C+Spring+Boot;Built+SmartQueue+%26+Smart+Learn+Hub;Actively+seeking+Entry-Level+%2F+SDE+Roles!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 - 🎓 **Master of Computer Applications (MCA)** from Pirens IBMA College (CGPA: 7.95 | 2026).
-- 💼 Former **Full Stack Web Developer Intern** at **CSM Computer, Loni** (Worked on live web applications, responsive React.js components, backend API integration, and debugging).
-- 🚀 Strong foundation in **React.js, Java, Spring Boot, Node.js, and MySQL**.
-- 🔐 Experienced in implementing **JWT Authentication, RESTful APIs**, and building role-based web platforms.
+- 💼 Former **Full Stack Web Developer Intern** at **CSM Computer, Loni** (Worked on live web applications, responsive React.js UI components, backend REST API integration, and testing/debugging).
+- 🚀 Strong foundation in **Java, Spring Boot, React.js, Node.js, and MySQL**.
+- 🔐 Hands-on experience with **JWT Authentication, RESTful APIs**, and building full-stack platforms.
 - 🎯 **Career Goal:** Actively seeking an entry-level opportunity as a **Junior Software Engineer / Full-Stack Developer** in an Agile engineering environment.
 
 ---
@@ -69,8 +69,8 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| 🏥 **[SmartQueue](https://github.com/Komal-Thitame/SmartQueue)** | Hospital Queue & Appointment System enabling patients to book appointments, receive digital tokens, and track live queue status in real time. | SpringBoot, React Js, MySQL |
 | 🎓 **[Smart Learn Hub](https://github.com/Komal-Thitame/LearnHub-FullStack)** | E-learning platform featuring role-based access for Students, Teachers, and Admins. Built with responsive dashboards, routing, state management, JWT authentication, and MySQL. | React.js, Node.js, Express, JWT, MySQL |
-| 🏥 **[SmartQueue](https://github.com/Komal-Thitame/SmartQueue)** | Hospital Queue & Appointment System enabling patients to book appointments, receive digital tokens, and track live queue status in real time. | JavaScript, Node.js, Web Tech |
 | 🍔 **[Canteen Management System](https://github.com/Komal-Thitame/Canteen-management-system-)** | Full desktop software for managing restaurant/canteen orders, menu catalog, billing calculations, and food inventory. | Java, Swing, MySQL |
 | 💼 **[Portfolio Website](https://github.com/Komal-Thitame/Portfolio)** | Clean, personal website hosted on GitHub Pages showcasing my technical background, projects, and contact info. | HTML5, CSS3, JavaScript |
 
@@ -79,15 +79,3 @@
 ### 📜 Certifications
 - 🏅 **Java Training Certificate** – Besent Technologies *(Certified: May 2024)*
 - 🏅 **JavaScript Skill Certificate** – oneroadmap *(Certified: July 2025)*
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Komal-Thitame&show_icons=true&theme=radical&hide_border=true" alt="Komal's Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komal-Thitame&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
